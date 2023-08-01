@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Aobakwe Ntshekisang
+</title>
+</head>
+
+<body>
+<h1>Welcome To My Github Page</h1>
+
+<p>Welcome to my page! I'm thrilled to have you here and share my projects, code snippets, and resources with you.
+<br>
+My main focus is on creating useful tools and solutions that make people's lives easier, 
+and we share my work here so that others can learn and benefit from it. </p>
+
+
+<p>Whether you're a developer, a researcher, or just someone who's curious about what I do,
+ I hope you'll find something interesting and valuable here. 
+<br>
+This page is a collaborative space where I share, discuss, and improve my work, so feel free to explore, comment, and contribute. </p>
+<br>
+<p>PS. this was to show off that I know basic html😉</p>
+
+</body>
+
+</html>
